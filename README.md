@@ -7,5 +7,5 @@ interface graphique intuitive et une expérience de jeu interactive qui permet a
 utilisateurs de jouer au démineur en temps réel
 
 # Pour lancer le jeu 
-- comipler avec la comande javac Demineur.java
-- Pour éxecuter le programme java Demineur 
+- comipler avec la commande "javac Demineur.java"
+- Pour éxecuter le programme "java Demineur" 
